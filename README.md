@@ -1,4 +1,4 @@
 # Compilation-process
-I created this schematic to provide a simple, abstract overview of the different compilation steps for a C/C++ programs.
+I created this schematic to provide a simple, abstract overview of the different compilation steps for a C/C++ program.
 
-![image](https://user-images.githubusercontent.com/45420549/154858757-3a140295-3677-4944-a04a-11d807070e84.png)
+![Compiliation process](https://user-images.githubusercontent.com/45420549/154859101-fd903946-43a3-41fe-8762-0f1dd645d1db.svg)
